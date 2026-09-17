@@ -2,8 +2,8 @@
 
 #### 适用范围:所有虚拟机和物理机
 #### 安装器中的EzOpWrt Vip-Super 24.10
-#### 固件地址 `192.168.10.1`
-#### 用户名 `root` 密码：无
+#### 固件地址 `192.168.2.169`
+#### 用户名 `root` 密码：password
 #### 默认软件包大小 2GB 
 
 - 固件出处：https://github.com/sirpdboy/openwrt/releases/
